@@ -1,0 +1,3 @@
+studentid = 123456789
+courseid = CIS123
+professor = Professor
